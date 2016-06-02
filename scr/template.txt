@@ -1,0 +1,2 @@
+General;\[b\]%FileName%\[/b\]<BR>%Format% | Size: %FileSize/String% | Duration: %Duration/String% |
+Video; %Width%x%Height%\n
